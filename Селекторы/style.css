@@ -1,0 +1,30 @@
+*{
+	color: #4300FF;
+	background: #000000;
+}
+#grut{
+	color: yellow;
+	font-size: 24px;
+}
+.ex{
+	color: #50FF00;
+}
+a[href="https://www.youtube.com"]{
+	color: #FFBD23;
+}
+.contiener a, p {
+	font-size: 22px;
+}
+
+#grut + span {
+	background: #22CC25;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+h1::first-letter{
+	color: #35BACC;
+	font-size: 36 px;
+}

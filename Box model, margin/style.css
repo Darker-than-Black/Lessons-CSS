@@ -1,0 +1,18 @@
+body{
+	background-image: url(http://bipbap.ru/wp-content/uploads/2017/05/354037677.jpg);
+}
+.conteiner {
+	width: 1280px;
+	margin: 0 auto;	
+}
+header{
+	text-align: center;
+}
+.content{
+	margin: 0 auto; 
+	width: 853px;
+	text-align: center;
+}
+img {
+	width: 853px;
+}

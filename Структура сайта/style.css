@@ -1,0 +1,45 @@
+body{
+	background: url(https://avatanplus.com/files/resources/original/574c93b7de51515503210667.jpg);
+}
+.conteiner {
+	width:960px;
+	margin:0 auto;
+	font-size: 20px;
+}
+#logo {
+	float: left;
+	width: 75px;
+	height: auto;
+}
+aside {
+	float: left;
+	width: 20%;
+	text-shadow: red 0 0 10px;
+}
+.content{
+	float: left;
+	width: 80%;
+}
+.content, aside {
+	height: auto;
+}
+footer{
+	height: 125px;
+	text-align: right;
+	background: #d2d2d2;
+	clear: both;
+}
+h3{
+	color: #229175;
+	text-align: center;
+}
+h1{
+	color: #F2071A;
+}
+h2{
+	color: #EFCF2D;
+}
+h1, h2 {
+	text-shadow: black 1px 1px 0, black -1px -1px 0, 
+                 black -1px 1px 0, black 1px -1px 0;
+}
